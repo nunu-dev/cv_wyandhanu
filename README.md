@@ -6,14 +6,29 @@
   <h3>Personal Portfolio Website</h3>
   <p>Mahasiswa D3 Teknik Informatika | Web Developer | Game Developer</p>
   
+  [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nunu-dev.github.io/cv_wyandhanu/)
+  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?style=for-the-badge&logo=github&logoColor=white)](https://nunu-dev.github.io/cv_wyandhanu/)
+  
   [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
   [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283870405395)
   
-  [🌐 Live Demo](#) • [📧 Contact](mailto:wyandhanu.maulidan.tif24@polban.ac.id) • [💼 LinkedIn](https://linkedin.com/in/wyandhanu-maulidan-n-47762b32a)
+  <br/>
+  
+  ### 🔗 Quick Links
+  
+  [🌐 **Live Website**](https://nunu-dev.github.io/cv_wyandhanu/) • [📧 **Email**](mailto:wyandhanu.maulidan.tif24@polban.ac.id) • [💼 **LinkedIn**](https://linkedin.com/in/wyandhanu-maulidan-n-47762b32a) • [💬 **WhatsApp**](https://wa.me/6283870405395)
+  
+  ---
+  
+  ### ✨ Visit My Portfolio
+  
+  <a href="https://nunu-dev.github.io/cv_wyandhanu/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Portfolio-Click_Here-FF6B6B?style=for-the-badge&labelColor=4ECDC4&color=FF6B6B" alt="View Portfolio" />
+  </a>
+  
 </div>
-    [Link Website](https://nunu-dev.github.io/cv_wyandhanu/)
+
 ---
 
 ## 📋 Daftar Isi
@@ -49,7 +64,6 @@ Portfolio website personal yang menampilkan perjalanan akademik, profesional, da
 
 ### 🔧 Fungsionalitas
 - ✅ **Responsive Navigation** - Hamburger menu untuk mobile devices
-- ✅ **Smooth Scrolling** - Navigasi halus antar section
 - ✅ **Portfolio Filter** - Filter proyek berdasarkan kategori (Web/Game)
 - ✅ **Back to Top Button** - Tombol kembali ke atas yang dinamis
 - ✅ **Video Showcase** - Autoplay video untuk demonstrasi proyek
@@ -94,54 +108,6 @@ const techStack = {
   - Mobile: < 480px
   - Tablet: < 768px
   - Desktop: > 768px
-
-## 🚀 Instalasi
-
-### Prerequisites
-- Web browser modern (Chrome, Firefox, Safari, Edge)
-- Text editor (VSCode recommended)
-- Live Server extension (optional)
-
-### Setup Lokal
-
-1. **Clone Repository**
-```bash
-git clone https://github.com/nunu-dev/cv_wyandhanu.git
-cd cv_wyandhanu
-```
-
-2. **Struktur File yang Diperlukan**
-```
-portfolio-website/
-├── index.html
-├── Logo.png
-├── Test.JPG (foto profil)
-├── README.md
-└── assets/
-    ├── images/
-    │   ├── PTSGM.png
-    │   ├── BBGAME.png
-    │   ├── DJP.jpg
-    │   ├── JTEDO.jpg
-    │   ├── JDJP.jpg
-    │   ├── SFLS2n.png
-    │   ├── HAKI.png
-    │   └── MPM.png
-    └── videos/
-        └── videoclip1.mp4
-```
-
-3. **Jalankan Website**
-   - Buka `index.html` di browser, atau
-   - Gunakan Live Server di VSCode
-   - Atau jalankan dengan Python:
-```bash
-# Python 3
-python -m http.server 8000
-
-# Python 2
-python -m SimpleHTTPServer 8000
-```
 
 ## 📁 Struktur Project
 
@@ -296,7 +262,7 @@ filterBtns.forEach(btn => {
 | 📧 Email | [Send Email](mailto:wyandhanu.maulidan.tif24@polban.ac.id) | wyandhanu.maulidan.tif24@polban.ac.id |
 | 💬 WhatsApp | [Chat Now](https://wa.me/6283870405395) | +62 838-7040-5395 |
 | 💼 LinkedIn | [Connect](https://linkedin.com/in/wyandhanu-maulidan-n-47762b32a) | Wyandhanu Maulidan N |
-| 🐙 GitHub | [Follow](https://github.com/wyandhanupapoy) | @wyandhanupapoy |
+| 🐙 GitHub | [Follow](https://github.com/nunu-dev) | @nunu-dev |
 | 📷 Instagram | [Follow](https://www.instagram.com/wyandhanumn_/) | @wyandhanumn_ |
 
 </div>
@@ -325,6 +291,6 @@ Website ini adalah karya personal dan dilindungi hak cipta. Penggunaan kode untu
 
 Made with ❤️ by **Wyandhanu Maulidan Nugraha**
 
-[🔝 Back to Top](#-cv_wyandhanu---wyandhanu-maulidan-nugraha)
+[🔝 Back to Top](#-portfolio-website---wyandhanu-maulidan-nugraha)
 
 </div>

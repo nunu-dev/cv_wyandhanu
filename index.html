@@ -144,10 +144,26 @@
         }
 
         .nav-brand {
-            font-size: 1.5rem;
-            font-weight: bold;
-            color: var(--primary-color);
-        }
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.nav-brand img {
+    height: 80px;  /* Sesuaikan tinggi logo */
+    width: auto;   /* Width otomatis menyesuaikan proporsi */
+    max-width: 150px;  /* Maksimal lebar logo */
+    object-fit: contain;  /* Menjaga proporsi gambar */
+    display: block;
+}
+
+/* Untuk responsive di mobile */
+@media screen and (max-width: 480px) {
+    .nav-brand img {
+        height: 35px;  /* Lebih kecil di mobile */
+        max-width: 120px;
+    }
+}
 
         .nav-menu {
     position: fixed;
@@ -1102,13 +1118,17 @@
     <!-- Navigation Bar -->
     <nav class="navbar">
     <div class="nav-container">
-        <div class="nav-brand">NunuDev</div>
-        <button class="nav-toggle" id="navToggle">
-            <span></span>
-            <span></span>
-            <span></span>
-        </button>
+    <div class="nav-brand">
+        <a href="#home" style="display: flex; align-items: center;">
+            <img src="Logo.png" alt="NunuDev Logo">
+        </a>
     </div>
+    <button class="nav-toggle" id="navToggle">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+</div>
     <div class="nav-menu" id="navMenu">
         <ul class="nav-list">
             <li><a href="#home" class="nav-link">Home</a></li>

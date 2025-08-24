@@ -12,9 +12,8 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283870405395)
   
   [🌐 Live Demo](#) • [📧 Contact](mailto:wyandhanu.maulidan.tif24@polban.ac.id) • [💼 LinkedIn](https://linkedin.com/in/wyandhanu-maulidan-n-47762b32a)
-  [Link Website](https://nunu-dev.github.io/cv_wyandhanu/)
 </div>
-
+    [Link Website](https://nunu-dev.github.io/cv_wyandhanu/)
 ---
 
 ## 📋 Daftar Isi
